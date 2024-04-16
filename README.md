@@ -20,5 +20,3 @@ Currently working in the telecommunications industry
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ortariot&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
